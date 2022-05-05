@@ -1,0 +1,71 @@
+html,body{
+    height: 100%;
+    margin: 0%;
+    background-color: #A5d6a7;
+    padding-top: 5%;
+    padding-left: 20%;
+}
+
+.card{
+    justify-content: center;
+    background-color: #f7f7fc;;
+    width: 309px;
+    height: 350px;
+    border-radius:10px;
+    box-shadow: 5px 5px 5px 5px  #8fba91;
+}
+
+h2{
+    font-family: "Muli" sans-serif size 24px;
+    color: black;
+    width: 306px;
+    text-align: center;
+    padding-top: 30px;
+}
+    
+.saludo{
+    width: 206px;
+    height: 48px;
+    display: flexbox;
+    text-align: center ;
+    padding-left: 35px;
+    font-family: "Muli",sans-serif size 16px;
+    color: black
+    
+}
+
+.frutas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+ .fruta{
+    width: 150px; 
+    height: 30px;
+    background-color: white;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px auto 10px;
+     }
+
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+    
+ 
+
+    
